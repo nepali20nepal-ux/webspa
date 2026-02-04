@@ -192,6 +192,15 @@ footer {
   .cards { height: 260px; }
   .card { width: 85%; }
 }
+.logo-img {
+  width: 34px !important;
+  height: 34px !important;
+  max-width: 34px;
+  max-height: 34px;
+  object-fit: contain;
+  display: block;
+}
+
 
 
 
