@@ -192,14 +192,23 @@ footer {
   .cards { height: 260px; }
   .card { width: 85%; }
 }
-.logo-img {
-  width: 34px !important;
-  height: 34px !important;
-  max-width: 34px;
-  max-height: 34px;
+/* ===== HARD CLAMP LOGO SIZE (GitHub-safe) ===== */
+.navbar .logo-img {
+  width: 32px !important;
+  height: 32px !important;
+  max-width: 32px !important;
+  max-height: 32px !important;
   object-fit: contain;
   display: block;
 }
+
+.navbar .brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
 
 
 
