@@ -39,10 +39,11 @@ body {
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
 
-.navbar .logo {
-  font-size: 22px;
-  font-weight: 70;
+.navbar .logo-text {
+  font-size: 20px;
+  font-weight: 700;
 }
+
 
 .navbar a {
   color: white;
@@ -207,6 +208,7 @@ footer {
   align-items: center;
   gap: 10px;
 }
+
 
 
 
