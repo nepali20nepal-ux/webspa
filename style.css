@@ -41,7 +41,7 @@ body {
 
 .navbar .logo {
   font-size: 22px;
-  font-weight: 700;
+  font-weight: 70;
 }
 
 .navbar a {
@@ -192,5 +192,6 @@ footer {
   .cards { height: 260px; }
   .card { width: 85%; }
 }
+
 
 
